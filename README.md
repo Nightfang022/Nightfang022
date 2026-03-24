@@ -1,4 +1,4 @@
-### Olá! me chamo João Victor (ou Jv) 👋
+### Olá! me chamo João Victor 👋
 
 Aprendizado contínuo,
 resolvendo problemas com lógica e disciplina. 📚
