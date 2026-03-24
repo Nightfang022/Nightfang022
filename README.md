@@ -1,5 +1,4 @@
 ### Olá! me chamo João Victor (ou Jv) 👋
-💻 Programação | 🔐 Cibersegurança
 
 Aprendizado contínuo,
 resolvendo problemas com lógica e disciplina. 📚
