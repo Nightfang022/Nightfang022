@@ -1,8 +1,5 @@
 ### Olá! me chamo João Victor 👋
 
-Aprendizado contínuo,
-resolvendo problemas com lógica e disciplina. 📚
-
 
 
 ![João Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=Nightfang022&show_icons=true&theme=tokyonight)
